@@ -6,13 +6,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Header = () => {
     return (
         <>
-            <Navbar bg="dark" variant="dark">
-                <Container>
-                    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
-                    <Nav className="me-auto">
-                        <Nav.Link href="#home">Home</Nav.Link>
-                        <Nav.Link href="#features">Features</Nav.Link>
-                        <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Navbar bg="primary" variant="dark">
+                <Container className="">
+                    <Navbar.Brand href="/" className="text-center fs-1">LaManuBox</Navbar.Brand>
+                    <Nav className="ms-auto">
+                        <Nav.Link className="fst-italic">Assistant de selection</Nav.Link>
+                        {/* <Nav.Link href="#features">Qui sommes nous ?</Nav.Link> */}
+                        {/* <Nav.Link href="#pricing">Choisir mon Box</Nav.Link> */}
                     </Nav>
                 </Container>
             </Navbar>

@@ -1,8 +1,29 @@
 Pages :
 
 - Accueil
+Image / Texte explication / Boutton Démarrage
+
+- Démarrage
+Guide de démarrage
+
+- Comparatif
+Tableau des box disponibles
+
 - Qui sommes nous ?
+
+
+
+
+
+- Proposition
+
+- Utilitaire
+Liste des objets
+
 - Trouver votre box
+
+
+
 
 
 Annexes :
